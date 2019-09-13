@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyParsing", "CurrencyParsing\CurrencyParsing.csproj", "{D73FC80A-5326-469D-96AF-5DD76F5EF97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73FC80A-5326-469D-96AF-5DD76F5EF97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73FC80A-5326-469D-96AF-5DD76F5EF97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73FC80A-5326-469D-96AF-5DD76F5EF97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73FC80A-5326-469D-96AF-5DD76F5EF97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDD0450-CD14-4BFB-8AFF-B32CA0FC9AAA}
+	EndGlobalSection
+EndGlobal

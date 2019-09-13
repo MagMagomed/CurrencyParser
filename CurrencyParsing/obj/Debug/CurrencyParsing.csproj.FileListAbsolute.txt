@@ -1,0 +1,7 @@
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\bin\Debug\CurrencyParsing.exe.config
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\bin\Debug\CurrencyParsing.exe
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\bin\Debug\CurrencyParsing.pdb
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\obj\Debug\CurrencyParsing.csprojAssemblyReference.cache
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\obj\Debug\CurrencyParsing.csproj.CoreCompileInputs.cache
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\obj\Debug\CurrencyParsing.exe
+D:\Проги\C#\CurrencyParsing\CurrencyParsing\obj\Debug\CurrencyParsing.pdb
